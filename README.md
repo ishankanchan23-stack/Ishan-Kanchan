@@ -2,7 +2,7 @@
 
 <img src="WhatsApp Image 2026-08-07 at 00.46.06.jpeg" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Ishan Kanchan"/>
 
-# Hi, I'm Ishan Kanchan 👋
+# Hi, I'm Ishan Kanchan 
 
 ### Software Engineering Student · Second Year · MIT Academy of Engineering
 
