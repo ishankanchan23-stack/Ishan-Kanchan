@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_PROFILE_IMAGE_PATH" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Ishan Kanchan"/>
+<img src="WhatsApp Image 2026-08-07 at 00.46.06.jpeg" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Ishan Kanchan"/>
 
 # Hi, I'm Ishan Kanchan 👋
 
