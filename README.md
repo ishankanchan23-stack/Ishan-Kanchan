@@ -27,7 +27,6 @@ I'm a second-year Software Engineering student at **MIT Academy of Engineering, 
 - 🌐 Exploring **Web Development** alongside my core coursework
 - 🧩 Genuinely interested in solving real-world problems through code
 - 📈 Focused on steadily improving my technical and communication skills
-- 🏏 When I'm not coding, I'm usually on a cricket or football field
 
 I'm early in my journey — but I'm consistent, curious, and building in public.
 
@@ -38,11 +37,17 @@ I'm early in my journey — but I'm consistent, curious, and building in public.
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
 ![OOP](https://img.shields.io/badge/OOP-Concepts-4B8BBE?style=flat-square&logo=codeforces&logoColor=white)
+
 ![DSA](https://img.shields.io/badge/Data_Structures-%26_Algorithms-FF6F00?style=flat-square&logo=leetcode&logoColor=white)
+
 ![Problem Solving](https://img.shields.io/badge/Problem-Solving-2E8B57?style=flat-square&logo=codewars&logoColor=white)
+
 ![Web Dev](https://img.shields.io/badge/Web-Development-E34F26?style=flat-square&logo=html5&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git_%26_GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
 ![SE](https://img.shields.io/badge/Software_Engineering-Concepts-6A5ACD?style=flat-square&logo=readthedocs&logoColor=white)
 
 </div>
