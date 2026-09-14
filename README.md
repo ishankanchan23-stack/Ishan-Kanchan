@@ -174,23 +174,6 @@ This is very much a work in progress — steady practice over shortcuts.
 **MIT Academy of Engineering (MIT AOE), Pune**
 B.Tech, Software Engineering — Second Year
 
-<br/>
-
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ishan-Kanchan&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-Kanchan&layout=compact&hide_border=true&theme=default" width="35%" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishan-Kanchan&theme=default&hide_border=true" width="48%" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
 ## 2026–2027 Goals
 
 - [ ] Strengthen C++ and OOP fundamentals
