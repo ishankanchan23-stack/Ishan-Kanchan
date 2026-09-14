@@ -218,3 +218,12 @@ B.Tech, Software Engineering — Second Year
 *"Learn. Build. Experiment. Improve." — that's the loop I'm running right now.*
 
 </div>
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishankanchan23-stack/Ishan-Kanchan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishankanchan23-stack/Ishan-Kanchan/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/ishankanchan23-stack/Ishan-Kanchan/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+  </picture>
+</p>
